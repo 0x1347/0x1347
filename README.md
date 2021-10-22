@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...    0x1347
 -->
-#### &#x1f4c8; 0x1347 GitHub Stats
+
 
 <a href="https://teknoleet.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x1347&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
