@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://teknoleet.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x1347&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
+<a href="https://twitter.com/Get_last_error">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x1347&show_icons=true&line_height=33&count_private=true&theme=dark" alt="0x1347's GitHub Stats" />
 </a>
 
-<a href="https://teknoleet.com">
+<a href="https://twitter.com/Get_last_error">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1347&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 
-<a href="https://teknoleet.com">
+<a href="https://twitter.com/Get_last_error">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x1347&theme=dark" />
 </a>
 <br/>
