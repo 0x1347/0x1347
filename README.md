@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://twitter.com/Get_last_error">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=0x1347&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0x1347&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 <br/>
 <a href="https://twitter.com/Get_last_error">
