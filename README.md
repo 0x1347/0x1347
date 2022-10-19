@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <a href="https://twitter.com/0x1347">
-  <img src="https://img.shields.io/twitter/follow/Get_last_error?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+  <img src="https://img.shields.io/twitter/follow/0x1347?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
