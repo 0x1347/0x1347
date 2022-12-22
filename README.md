@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://twitter.com/0x1347">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1347&langs_count=4&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1347&langs_count=5&line_height=35&theme=dark" />
 </a>
 
 <a href="https://twitter.com/0x1347">
