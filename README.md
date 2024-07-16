@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 </a>
 <br/> -->
 <br/>
-<a href="https://twitter.com/0x1347">
-  <img src="https://img.shields.io/twitter/follow/0x1347?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
-</a>
-<br/>
-<a href="https://twitter.com/0x1347">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x1347&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="0x1347" />
-</a>
-<br/>
-<a href="https://twitter.com/0x1347">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x1347&theme=cobalt&show_icons=true&locale=en" alt="0x1347" />
-</a>
+<div style="text-align: center;">
+  <a href="https://twitter.com/0x1347">
+    <img src="https://img.shields.io/twitter/follow/0x1347?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+  </a>
+  <br/>
+  <a href="https://twitter.com/0x1347">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x1347&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="0x1347" />
+  </a>
+  <br/>
+  <a href="https://twitter.com/0x1347">
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=0x1347&theme=cobalt&show_icons=true&locale=en" alt="0x1347" />
+  </a>
+</div>
